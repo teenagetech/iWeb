@@ -2,13 +2,13 @@
     padding: 4px;
 }
 .paragraph_style {
-    color: rgb(255, 255, 255);
-    font-family: 'AvenirNext-Bold', 'Avenir Next';
+    color: rgb(167, 167, 167);
+    font-family: 'Avenir-Black', 'Avenir';
     font-size: 36px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
-    font-weight: 700;
+    font-weight: 800;
     letter-spacing: 0;
     line-height: 49px;
     margin-bottom: 0px;
@@ -142,11 +142,15 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_2 {
+.style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
 }
